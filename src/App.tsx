@@ -18,7 +18,7 @@ import image4 from './assets/image4.png';
 import image5 from './assets/image5.png';
 import image6 from './assets/image6.png';
 
-import Card from './components/card';
+import Card from './components/Card';
 import LeftNavBar from './components/LeftNavBar';
 import TopNavBar from './components/TopNavBar';
 
